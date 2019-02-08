@@ -1,4 +1,4 @@
-# mvc project structure which have program files depicting the basis theme and methodology of mvc program design -
+# MVC project structure which have program files depicting the basis theme and methodology of MVC program design -
 
 - Student.java in src/mvc12
 --  It shows the basic model and the structure of the student which contains the properties of student (Name , age)
